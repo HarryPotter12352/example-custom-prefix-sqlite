@@ -10,6 +10,6 @@ Then set the base_prefix to any default prefix you would like. Run the code, and
 
 
 # Some useful links
-[A good discord server worth joining for developers](https://discord.gg/program)
-[Discord.py documentation](https://discordpy.readthedocs.io/)
-[Sqlite Documentation](https://www.sqlite.org/docs.html)
+1. [A good discord server worth joining for developers](https://discord.gg/program)
+2. [Discord.py documentation](https://discordpy.readthedocs.io/)
+3. [Sqlite Documentation](https://www.sqlite.org/docs.html)
